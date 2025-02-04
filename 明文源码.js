@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
+let userID = '';//随便备注
 let proxyIP = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLmZ4eGsuZGVkeW4uaW8=');
